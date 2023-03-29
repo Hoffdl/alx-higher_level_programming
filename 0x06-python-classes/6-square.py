@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Define a class Square."""
 
+
 class Square:
     """"Represent a square."""
 
@@ -15,7 +16,7 @@ class Square:
         self.position = position
 
     @property
-    def size(self, value):
+    def size(self):
         """Get/set the current size of the square."""
         return (self.__size)
 
