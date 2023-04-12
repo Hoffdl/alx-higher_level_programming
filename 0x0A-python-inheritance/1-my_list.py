@@ -3,8 +3,8 @@
 '''
 
 
-class Mylist(list):
-    ''' Repressents a Mylist
+class MyList(list):
+    ''' Represents a MyList
     '''
 
     def print_sorted(self):
