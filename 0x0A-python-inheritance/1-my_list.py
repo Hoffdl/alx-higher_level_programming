@@ -4,7 +4,7 @@
 
 
 class MyList(list):
-    ''' Represents a MyList
+    ''' Represents a Mylist
     '''
 
     def print_sorted(self):
