@@ -1,4 +1,4 @@
-#!/use/bin/node
+#!/usr/bin/node
 const fs = require('fs');
 
 const fArg = fs.readFileSync(process.argv[2]).toString();
