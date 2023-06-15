@@ -14,3 +14,4 @@ for (const j in valsUniq) {
   }
   newDict[valsUniq[j]] = list;
 }
+console.log(newDic);
